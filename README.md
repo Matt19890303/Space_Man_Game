@@ -7,8 +7,8 @@ and make it to the trophy to win the game before a crash accures
 
 Use the pygame pip tool https://www.pygame.org/wiki/GettingStarted to install simple_game.
 
-```cmd
-python3 -m pip install -U pygame --user
+`Note
+use pygame and VSCode/Pycharm with extensions to run the game
 
 ```
 
